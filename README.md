@@ -1,2 +1,2 @@
 # CS234-Reinforcement-Learning
-Materials for Stanford CS234 Reinforcement Learning courses.
+Materials for the Stanford CS234 Reinforcement Learning course.
